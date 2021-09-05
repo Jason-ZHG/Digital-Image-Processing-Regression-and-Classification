@@ -42,6 +42,7 @@ This part is a technique demo for Canny edge detection of digital images, which 
 - Apply double threshold to determine potential edges.
 - Track edge by hysteresis: Finalize the detection of edges by suppressing all the other edges that are weak and not connected to strong edges.
 
+<img src="./images/canny_edge_detection_1.png">
 ![canny_edge_detection_1](./images/canny_edge_detection_1.png)
 ![canny_edge_detection_2](./images/canny_edge_detection_2.png)
 
